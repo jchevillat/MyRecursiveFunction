@@ -16,3 +16,6 @@ Here are the operations to follow:
  * Checkout to master to hotfix a missing comment
  * Commit it
  * Merge the two versions
+
+
+Source: [Les branches avec Git - Brancher et fusionner : les bases](https://git-scm.com/book/fr/v1/Les-branches-avec-Git-Brancher-et-fusionner%C2%A0%3A-les-bases)
