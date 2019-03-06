@@ -18,6 +18,7 @@ int factorial(int f) {
 int main()
 {
     int fact=4;
+    // Display a comment
     printf("%d! = %d \n", fact, factorial(fact));
     return 0;
 }
