@@ -8,7 +8,7 @@ Here are the operations to follow:
  * Initialize your working dir with git and commit files main.c
  * "git status" and make it that files not pertinent are ignored (hint: use a .gitignore file)
  * Add a remote to Github
- * Make the factorial computation a function
+ * Make the factorial computation a function 
  * Commit it
  * Branch it
  * Make it a recursive function
@@ -18,4 +18,6 @@ Here are the operations to follow:
  * Merge the two versions
 
 
-Source: [Les branches avec Git - Brancher et fusionner : les bases](https://git-scm.com/book/fr/v1/Les-branches-avec-Git-Brancher-et-fusionner%C2%A0%3A-les-bases)
+Sources: 
+ * [Les branches avec Git - Brancher et fusionner : les bases](https://git-scm.com/book/fr/v1/Les-branches-avec-Git-Brancher-et-fusionner%C2%A0%3A-les-bases)
+ * [Git Explorer](https://gitexplorer.com/)
